@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
     {{-- Stylesheet --}}
     <link rel="stylesheet" href="{{asset('css/app.css')}}">
-    <title>@yield('Title', 'Boolean Travels Company')</title>
+    <title> @yield('Title','B.T.C.')</title>
 </head>
 <body>
     {{-- site_header --}}

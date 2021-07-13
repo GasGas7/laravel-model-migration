@@ -1,6 +1,6 @@
 @extends('layout.app')
 
-@section('title', 'B.T.C.- Home')
+@section('title', 'B.T.C. - Home')
 
 @section('content')
     <div class="container-xl d-flex justify-content-center flex-column text-center">

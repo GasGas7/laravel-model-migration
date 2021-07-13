@@ -1,6 +1,6 @@
 @extends('layout.app')
 
-@section('title', 'B.T.C.- Travels')
+@section('title', 'B.T.C. - Travels')
 
 @section('content')
 
